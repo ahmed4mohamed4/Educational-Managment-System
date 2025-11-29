@@ -189,9 +189,9 @@ This is an educational project. Feel free to enhance features, improve code stru
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Author
 
-> Ahmed Mohamed |  Ayman Elbana
+> Ahmed Mohamed
 ---
 
 
